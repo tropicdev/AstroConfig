@@ -10,7 +10,7 @@ mv ~/.local/share/nvim ~/.local/share/nvim.bak
 #### Clone the repository
 
 ```shell
-git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim/lua/user
+git clone https://github.com/tropicdev/AstroConfig ~/.config/nvim/lua/user
 ```
 
 #### Start Neovim
